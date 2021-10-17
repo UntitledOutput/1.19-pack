@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pandas",
+		"description": "pandas Behavior Pack",
+		"uuid": "499bedd6-8ae2-d675-a661-2e04b87beb3b",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.0.4"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "850a721c-29d9-8cc9-e467-2d8c4be440e5",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "b1f01864-5959-f2e7-6449-48e28d27dc70",
+			"version": [1, 0, 0]
+		}
+	]
+}
